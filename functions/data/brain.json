@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "question":"/สวัสดี/g",
+        "answer":"'สวัสดีจ้า :3'"
+    },
+    {
+        "id":2,
+        "question":"/hello/g",
+        "answer":"'สวัสดีจ้า :3'"
+    },
+    {
+        "id":3,
+        "question":"/hey/g",
+        "answer":"'สวัสดีจ้า :3'"
+    },
+    {
+        "id":4,
+        "question":"/ขอบคุณ/g",
+        "answer":"'ยินดีเสมอจ้า <3'"
+    },
+    {
+        "id":5,
+        "question":"/ไม่มีแล้ว/g",
+        "answer":"'โอเคจ้า :D'"
+    },
+    {
+        "id":6,
+        "question":"/ไม่มี/g",
+        "answer":"'โอเคจ้า :D'"
+    },
+    {
+        "id":7,
+        "question":"/ไม่/g",
+        "answer":"'โอเคจ้า :D'"
+    },
+    {
+        "id":8,
+        "question":"/กี่โมง/g",
+        "answer":"(new Date()).getHours() + \":\" + (new Date()).getMinutes()"
+    },
+    {
+        "id":9,
+        "question":"/วันที่อะไร/g",
+        "answer":"(new Date()).getDate() + \"/\" + ((new Date()).getMonth() + 1 ) + \"/\" + (new Date()).getFullYear()"
+    },
+    {
+        "id":10,
+        "question":"/ชื่ออะไร/g",
+        "answer":"'เราชื่อ icookerthebot ไง'"
+    },
+    {
+        "id":11,
+        "question":"/ทำอะไร/g",
+        "answer":"'ลองพิมพ์คำว่า help สิ :D'"
+    },
+    {
+        "id":12,
+        "question":"/ง่วง/g",
+        "answer":"'ไปนอนสิ <3'"
+    },
+    {
+        "id":13,
+        "question":"/เหงา/g",
+        "answer":"'ง่า เค้าไม่รู้จะช่วยไงอ่า'"
+    },
+    {
+        "id":14,
+        "question":"/อือ/g",
+        "answer":"'อ่า'"
+    },
+    {
+        "id":15,
+        "question":"/อ่า/g",
+        "answer":"'อ่า'"
+    },
+    {
+        "id":16,
+        "question":"/โอเค/g",
+        "answer":"'จ้า'"
+    },
+    {
+        "id":17,
+        "question":"/จ้า/g",
+        "answer":"':D'"
+    },
+    {
+        "id":18,
+        "question":"/ร้องเพลง/g",
+        "answer":"'เค้าร้องเพลงไม่ได้นะ T^T'"
+    },
+    {
+        "id":19,
+        "question":"/รักเธอ/g",
+        "answer":"'ง่า เขิน >_< ไม่ได้ๆ'"
+    },
+    {
+        "id":20,
+        "question":"/ไปแล้ว/g",
+        "answer":"'บ๊าย บาย <3'"
+    }
+]
